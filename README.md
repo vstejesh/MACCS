@@ -115,6 +115,8 @@ mRNA-fusion-CC-Classifier/
 ---
 
 ## Model Architecture
+<img width="1343" height="706" alt="image" src="https://github.com/user-attachments/assets/ad1a64c7-c690-46da-a3cf-fbb2913af86d" />
+
 
 `model.py` implements a three-part network:
 
