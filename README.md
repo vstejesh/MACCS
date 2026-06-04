@@ -1,6 +1,6 @@
 # MACCS: mRNA-Anchored Cross-Attention Classifier for Cervical Cancer Subtyping
 
-Binary classification of cervical cancer subtypes (SCC vs ADC) using a Star Topology cross-attention network over four multi-omics modalities. This repo implements **Stage 2** of the full pipeline described in the accompanying paper — it takes a preprocessed, imputed `.npz` file as input and handles the rest.
+Binary classification of cervical cancer subtypes (SCC vs ADC) using a Star Topology cross-attention network over four multi-omics modalities. This repo implements **Stage 3** of the full pipeline described here — it takes a preprocessed, imputed `.npz` file as input and handles the rest.
 
 ---
 
